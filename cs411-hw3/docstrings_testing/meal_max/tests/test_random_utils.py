@@ -1,7 +1,7 @@
 import pytest
 import requests
 from meal_max.utils.random_utils import get_random
-
+ 
 RANDOM_NUMBER = 0.5
 
 @pytest.fixture
